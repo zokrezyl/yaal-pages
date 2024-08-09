@@ -1,2 +1,9 @@
 # yaal
-Yet Another Automation language
+Yet Another 
+  - Automation
+  - Annotation
+  - Application
+  - Pipeline
+  - Programming
+  - Templating
+      - Language
